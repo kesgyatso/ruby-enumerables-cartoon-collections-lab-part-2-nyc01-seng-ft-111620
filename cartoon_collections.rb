@@ -10,7 +10,6 @@ def square_array(array)
   # Return a new array of the results
 end
 
-square_array([1,2,3,4])
 
 
 def summon_captain_planet(planeteer_calls)
